@@ -273,3 +273,21 @@ olist-ecommerce-sql-analysis/
 │
 ├── README.md
 └── olist_project.pdf
+
+---
+
+## 🚧 Project Status
+
+**Completed**
+
+The project contains SQL-based analysis covering orders, sales revenue, product categories, customers, monthly revenue, customer reviews, and seller performance.
+
+---
+
+## 👨‍💻 Author
+
+**Prince Yadav**
+
+Aspiring Data Analyst
+
+**Skills:** SQL | Power BI | Excel | Python
