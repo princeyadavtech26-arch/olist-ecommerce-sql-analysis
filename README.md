@@ -277,7 +277,6 @@ olist-ecommerce-sql-analysis/
 ---
 
 ## 🚧 Project Status
-
 **Completed**
 
 The project contains SQL-based analysis covering orders, sales revenue, product categories, customers, monthly revenue, customer reviews, and seller performance.
