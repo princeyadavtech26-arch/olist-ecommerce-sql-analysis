@@ -156,7 +156,7 @@ This project is currently being developed. More SQL queries, business questions,
 
 ## 📊 Project Preview
 
-![Olist E-Commerce SQL Analysis](project-screenshot.png)
+![Olist E-Commerce SQL Analysis](https://github.com/princeyadavtech26-arch/olist-ecommerce-sql-analysis/blob/main/olist_project%20by%20prince.pdf)
 
 ## 👨‍💻 Author
 
